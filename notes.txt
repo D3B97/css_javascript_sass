@@ -1,0 +1,23 @@
+width 100% can cover the whole row
+but height 100% is depends on height of mother block elements
+
+width and height folder
+
+** shothand properties -> screenshot
+** box-sizing: content-box(its default), we use border-box
+
+** header and nav bar
+
+**ul list style, inline block, text decoration etc
+
+** psudo class ->> :hover,
+
+** psudo elements --> ::after, ::before, ::first-elements,
+
+** psudo class grouping ->> class:hover,class:active {}
+
+** background to div1
+
+
+selector & CSS features
+
